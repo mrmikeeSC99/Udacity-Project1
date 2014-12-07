@@ -1,0 +1,51 @@
+
+* {
+    font-family: 'Lucida Grande', sans-serif;
+    font-size: 18px;
+    color: #666666;
+}
+
+#title h2 {
+    color: #F07C17;
+    font-size: 23px;
+    letter-spacing: 1.2px;
+}
+
+#body {
+    padding-top: 25px;
+    letter-spacing: -0.9px;
+    line-height: 180%;
+}
+
+
+#header {
+    padding-top: 25px;
+}
+
+#header h1 {
+    font-size: 48px;
+}
+
+#mug{
+    padding: 15px;
+    padding-top: 20px;
+}
+
+#box {
+    margin: 15px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #ccc;
+}
+
+#box h2 {
+    color: #F07C17;
+    font-size: 23px;
+    letter-spacing: 1.2px;
+}
+
+#box li {
+    padding: 6px;
+}

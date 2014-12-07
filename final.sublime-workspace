@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"h",
+				"max-height"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"x",
+				"xx-large  (value)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"Tab",
+				"TABLE"
+			],
+			[
+				"mgr",
+				"mgrLevelSearch"
+			],
+			[
+				"sear",
+				"searchFilter"
+			],
+			[
+				"qu",
+				"queryMgrIDs"
+			],
+			[
+				"attm",
+				"attMgrLevelSearch"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"fil",
+				"filter_str"
+			],
+			[
+				"at",
+				"attLDAP"
+			],
+			[
+				"get",
+				"get_template"
+			],
+			[
+				"rend",
+				"render"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"workgru",
+				"workgroup"
+			],
+			[
+				"wg",
+				"workgroup"
+			],
+			[
+				"work",
+				"workgroupWorktypes"
+			],
+			[
+				"lin",
+				"link	Tag"
+			],
+			[
+				"try",
+				"try	Try/Except/Finally"
+			],
+			[
+				"all",
+				"allowed_work_sub_types"
+			],
+			[
+				"Wo",
+				"WorkGroup"
+			],
+			[
+				"sub",
+				"subtypes"
+			],
+			[
+				"workt",
+				"worktypes"
+			],
+			[
+				"wo",
+				"worktypes"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"to",
+				"totaltime"
+			],
+			[
+				"tot",
+				"total_items"
+			],
+			[
+				"totl",
+				"totaltime"
+			],
+			[
+				"com",
+				"completed__gte"
+			],
+			[
+				"Wor",
+				"WorkType"
+			],
+			[
+				"id",
+				"id_startDateTime"
+			],
+			[
+				"dire",
+				"direct_reports"
+			],
+			[
+				"Emp",
+				"Employee"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"key",
+				"keycode"
+			],
+			[
+				"utf",
+				"utf8	utf8-py"
+			],
+			[
+				"layout",
+				"layoutVar"
+			],
+			[
+				"Work",
+				"WorkSubType"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"save",
+				"save_Obj"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pau",
+				"paused_Obj"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"el",
+				"elapsedSeconds"
+			],
+			[
+				"stat",
+				"status_name"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"en",
+				"encode_datetime"
+			],
+			[
+				"ge",
+				"getLoggerClass	function"
+			],
+			[
+				"my",
+				"myGlobalVars"
+			],
+			[
+				"static",
+				"static"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Instructor-Notes.todo",
+			"settings":
+			{
+				"buffer_size": 2029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap/index.html",
+			"settings":
+			{
+				"buffer_size": 3007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap/css/style.css",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"packa en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packag en",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"Snippet: ",
+				"Snippet: rst self link"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"todor",
+				"TodoReview: Project Files"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mcone/VboxShare/Projects/UdacityClass/project_1/FINAL",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/project_1/FINAL/bootstrap",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/project_1/FINAL/bootstrap/css"
+	],
+	"file_history":
+	[
+		"/Users/mcone/VboxShare/Projects/UdacityClass/project_1/FINAL/bootstrap/css/style.css",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/timers.html",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/middlewares/ThreadLocal.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/static/css/theme.css",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/_DESIGN.todolist",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/_BUGS.todolist",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/_ASKS.todolist",
+		"/Users/mcone/Desktop/att-Bootstrap-Theme/from_tUniversity/custom_2020.css",
+		"/Users/mcone/Desktop/att-Bootstrap-Theme/tColors.less",
+		"/Users/mcone/Desktop/web-dev-links.html",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#40/logger.py",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#39/__init__.py",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/Project 1/Lesson_3/scratchpad01/bootstrap/css/style.css",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/Project 1/Lesson_3/scratchpad01/bootstrap/bootstrap-prestructure-mike.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/Project 1/Lesson_3/scratchpad01/bootstrap/instructor-solution.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/Project 1/Lesson_3/scratchpad01/bootstrap-prestructure-mike.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/Project 1/Lesson_3/scratchpad01/bootstrap-prestructure.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/framework/project01.todo",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/framework/project01.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/framework/css/main.css",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/mcone/Desktop/test.html",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/temp-logger.py",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/mcone/Downloads/FW Useful Links... FYI.msg",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/lib/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/CHANGELOG",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/_ask.todo",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/mgrLevelSearch.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/lib/logger.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/logs\\mgrLevelSearch.log",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/attLDAP.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/mgrLevelSearch.cfg",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/dbCfg.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/test-filters.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/testClass.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/attLDAP/attLDAP.py",
+		"/Users/mcone/VboxShare/Projects/Work/misc/scripts_for_jb1857/dashboard_webphone_search/attLDAP/__init__.py",
+		"/Users/mcone/Desktop/att-Bootstrap-Theme/tColors.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/settings_laptop.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/workgroupWorktypes.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/templates/base.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templatetags/ifusergroup_tag.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/reports/views.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/reports/urls.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/dev/worktype.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/management/commands/updateusernames.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/_signals.py",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/framework/index.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/framework/test.html",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/toplist/style.css",
+		"/Users/mcone/VboxShare/Projects/UdacityClass/portfolio/toplist/index.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/settings.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/dev/ldapTest.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/task_detail.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/employee_time_summary.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/employee_time_detail.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/tasks_by_tag.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/templates/carosel.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/docs/source/conf.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/completed_list.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/auth/tools.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/templates/oldcounter.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templatetags/time_filters.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/reports/manager.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/models.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/employee_time_summary_form.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templatetags/time_tags.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/urls.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/_export_csv_button.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/views.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/docs/build/html/index.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/management/commands/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/management/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/lib/attLDAP/attLDAP.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/forms.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/dev/report.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/new_task_form.html",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/pip-freeze-laptop.txt",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker.sqlite3",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timeTracker.sublime-project",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/README",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/new_task_form.html.bootstrap",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/gateKeeper/gksocket.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/static/fonts/glyphicons-halflings-regular.svg",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/gateKeeper/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/attCSP/auth/backends.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/lib/TimeOutMiddleware.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/static/js/jquery/countdown/jquery.plugin.js",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/decorators.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/settings.py.dev",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templatetags/__init__.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/ifusergroup_tag.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/template_tags.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/urls.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/static/js/tracker.js",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/apps/tracker/templates/tracker/report/employee_time_summary_CSV.html",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Volumes/OCZ DIESEL/work/Ajax-MACE-WEB/MySQL/getuser/index.html",
+		"/Volumes/OCZ DIESEL/work/check_linux_bonding-1.3.1/check_linux_bonding",
+		"/Volumes/OCZ DIESEL/work/scripts/Python/current/mike_vpn_test.py",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#4/settings.py",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#3/base.html",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#1/settings.py",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#0/settings.py",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/timetracker/apache-wsgi.py",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/ASKS.todolist",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/Feature_Requests.todolist",
+		"/Users/mcone/VboxShare/Projects/Work/timetracker/BUGS.todolist",
+		"/Users/mcone/VboxShare/Projects/Work/AVP-website-project/mnrcWebAttCom/attBrand1/templates/attBrand1/attBrand1_base.html",
+		"/Users/mcone/Desktop/temp.html",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#1/timetracker",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/mcone/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mcone/Projects/timetracker/apps/tracker/templates/tracker/new_task_form.html",
+		"/Users/mcone/Projects/timetracker/apps/tracker/views.py",
+		"/Users/mcone/Library/Caches/com.binarynights.ForkLift2/#5/avp.html",
+		"/Volumes/ntfs/test.txt",
+		"/Users/mcone/Projects/Personal/Django-KVM/test/jqueryUI-duration/duration-test.html",
+		"/Users/mcone/Projects/timetracker/apps/tracker/static/js/tracker.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/mcone/network_shares/django-kvm/timetracker"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Logging",
+			"sys.exit",
+			", 'userReports'",
+			"^\\s*(\\S*)\\s*=.*$",
+			"^(.*) Sharepoint: (.*)$",
+			"time_spent",
+			"PASSWORD",
+			"h@mm3r!",
+			"</span>",
+			"<span style=\"\">",
+			"<span>",
+			"<li style=\"\">",
+			"me.",
+			"$.myGlobalVars.active",
+			"$(this).",
+			"test",
+			"Control&gt;f",
+			"<generic-icon",
+			"PROJ_DIR",
+			"BASE_DIR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sys.exit()",
+			", 'UserReports'",
+			"task.\\1,",
+			"r.\\1,",
+			"'\\1',",
+			"{{ task.\\1 }}",
+			"\\1",
+			"<a href=\"\\2\">\\1</a>",
+			"<a href=\"\\2\"><\\1>",
+			"r.worktypes",
+			"TOOLS-ADMIN-PASSWORD",
+			"PASSWORD",
+			"",
+			"<li>",
+			"save_Obj.",
+			"$.myGlobalVars.activeCounter",
+			"me."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"file": "project1-final-portfolio.png",
+					"semi_transient": false,
+					"stack_index": 3,
+					"type": "image"
+				},
+				{
+					"buffer": 0,
+					"file": "Instructor-Notes.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bootstrap/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/MonokaiEasyForRetina (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/MonokaiEasyForRetina (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "final.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"forms",
+				"apps/tracker/forms.py"
+			],
+			[
+				"mytestauth",
+				"mytest/auth/backends.py"
+			],
+			[
+				"view",
+				"mytest/views.py"
+			],
+			[
+				"setti",
+				"theconeshouse/settings.py"
+			],
+			[
+				"urls.py",
+				"theconeshouse/urls.py"
+			],
+			[
+				"url",
+				"theconeshouse/urls.py"
+			],
+			[
+				"back",
+				"mytest/auth/backends.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
